@@ -14,7 +14,8 @@ Web browser to view.
 
 ## Known Bugs
 
-Video blog needs completion/Additional data is needed for contact information.
+Video blog needs completion/Additional contact information/ Modal text broken and
+form for questionnaire needed.
 
 
 ## Support and contact details
